@@ -1,0 +1,45 @@
+baseURL = "https://matejak.com/"
+theme = "hermit-v2"
+ 
+languageCode = "en-us"
+
+title = "Krzysztof Matejak"
+
+copyright = "Krzysztof Matejak"
+enableEmoji = true
+
+[params]
+  description = "Krzysztof Matejak, a full stack developer who prefers use Java with Spirng, and either C++ or Python depending on the purpose. Angular on the frontend side is the preferred tool. With love to Hugo (for small static websites)."
+  themeColor = "#494f5c"
+  accentColor = "#018472"
+
+  footerHideThemeName = false
+  gitUrl = "https://github.com/kMatejak/matejak/"
+
+  justifyContent = false
+
+  homeSubtitlePrinter = true
+  scrollToTop = true 
+  shareSocial = true
+
+  [[params.socialLinks]]
+    name = "email"
+    url = "mailto:krzysztof@matejak.com"
+  
+  [[params.socialLinks]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/matejak/"
+
+  [[params.socialLinks]]
+    name = "github"
+    url = "https://github.com/kMatejak/"
+
+  [[params.socialLinks]]
+    name = "facebook"
+    url = "https://www.facebook.com/k.matejak"
+
+  [[params.socialLinks]]
+    name = "instagram"
+    url = "https://www.instagram.com/krzysztof.matejak/"
+
+

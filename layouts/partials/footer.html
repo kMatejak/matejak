@@ -1,0 +1,8 @@
+<p>
+	<span class="copyleft">&copy;</span> {{ now.Format "2006" }} 
+	<a href="{{ .Site.BaseURL }}">{{ .Site.Title }} </a> 
+	{{- if not .Site.Params.footerHideThemeName -}}
+	&#183; Made with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a>
+	&#183; Theme <a href="https://github.com/1bl4z3r/hermit-V2" target="_blank" rel="noopener">Hermit-V2</a>
+	{{- end -}}
+</p>
