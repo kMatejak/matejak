@@ -1,4 +1,4 @@
-baseURL = "https://www.matejak.com/"
+baseURL = "https://matejak.com/"
 theme = "hermit-v2"
  
 languageCode = "en-us"
